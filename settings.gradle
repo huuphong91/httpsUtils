@@ -1,2 +1,3 @@
+include ':httpsUtilsLibrary'
 include ':app'
 rootProject.name = "httpsutils"
